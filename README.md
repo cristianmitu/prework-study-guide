@@ -1,10 +1,11 @@
-# <Your-Project-Title>
+# Study Guide Webpage
 
-## Description
+## DescriptionCancel changes
 
 This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
 -My motivation was to take the first steps in learning how to code.
+
 -I learned how to create a web-page using HTML , CSS (to style our page), and JavaScript (to add logic to our page).
 
 
